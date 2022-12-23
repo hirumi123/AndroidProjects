@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "681644751744",
+    "firebase_url": "https://fir-pppb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-pppb",
+    "storage_bucket": "fir-pppb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681644751744:android:1993f037933965d96bdf65",
+        "android_client_info": {
+          "package_name": "com.example.firebasepppb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681644751744-5065ai6l5e3oirutl1r8o1jeepoc3bmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5sfIx1abyUSpZuNWwdigvrbqqbrludkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681644751744-5065ai6l5e3oirutl1r8o1jeepoc3bmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681644751744:android:cee00023c76153e36bdf65",
+        "android_client_info": {
+          "package_name": "com.example.nyobak2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681644751744-5065ai6l5e3oirutl1r8o1jeepoc3bmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5sfIx1abyUSpZuNWwdigvrbqqbrludkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681644751744-5065ai6l5e3oirutl1r8o1jeepoc3bmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
